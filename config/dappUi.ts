@@ -72,7 +72,7 @@ export const team = [
   {
     name: 'Tikapo',
     bio: 'Smart Contract programmer',
-    imageUrl: '/john.svg',
+    imageUrl: '/tika.svg',
     socialMediaLinks: [
       'https://twitter.com/Tikapo1',
 
@@ -81,13 +81,13 @@ export const team = [
   {
     name: 'Grimlins',
     bio: 'Front-end Developer',
-    imageUrl: '/mark.svg',
+    imageUrl: '/grim.svg',
     socialMediaLinks: ['https://twitter.com/DevsDeLyon'],
   },
   {
     name: 'Eluchaap',
     bio: 'Lead UX Designer',
-    imageUrl: '/jack.svg',
+    imageUrl: '/soso.svg',
     socialMediaLinks: [
       'https://twitter.com/eluchaap',
     ],
