@@ -70,30 +70,26 @@ export const roadmap = [
 
 export const team = [
   {
-    name: 'John Doe',
-    bio: 'Web designer and artist',
+    name: 'Tikapo',
+    bio: 'Smart Contract programmer',
     imageUrl: '/john.svg',
     socialMediaLinks: [
-      'https://www.twitter.com',
-      'https://www.behance.net',
-      'https://www.dribbble.com',
+      'https://twitter.com/Tikapo1',
+
     ],
   },
   {
-    name: 'Mark Doe',
-    bio: 'Smart Contract programmer',
+    name: 'Grimlins',
+    bio: 'Front-end Developer',
     imageUrl: '/mark.svg',
-    socialMediaLinks: ['https://www.twitter.com', 'https://www.github.com'],
+    socialMediaLinks: ['https://twitter.com/DevsDeLyon'],
   },
   {
-    name: 'Jack Doe',
-    bio: 'Community relations and marketing',
+    name: 'Eluchaap',
+    bio: 'Lead UX Designer',
     imageUrl: '/jack.svg',
     socialMediaLinks: [
-      'https://www.twitter.com',
-      'https://www.discord.com',
-      'https://www.telegram.me',
-      'https://www.medium.com',
+      'https://twitter.com/eluchaap',
     ],
   },
 ];

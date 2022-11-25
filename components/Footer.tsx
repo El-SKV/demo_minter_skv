@@ -16,7 +16,7 @@ export const Footer = () => {
         fontWeight="normal"
         textAlign="center"
       >
-        <Box>Elven Tools Dapp Template (v{`${packageJson.version}`})</Box>
+        <Box>SKV Minter Dapp (v{`${packageJson.version}`})</Box>
         <Box fontSize="xs" fontWeight="hairline">
           All for free. Please support the project. Give it credit and tell the
           world about it. Attribution is not required but welcomed in the form
@@ -26,21 +26,21 @@ export const Footer = () => {
           <Text
             as="a"
             color="elvenTools.color3.base"
-            href="https://www.elven.tools"
+            href="https://www.skvagency.com"
             target="_blank"
             rel="noopener noreferrer nofollow"
           >
-            elven.tools
+            SKV Agency
           </Text>{' '}
           ⚡{' '}
           <Text
             as="a"
             color="elvenTools.color3.base"
-            href="https://www.julian.io"
+            href="https://twitter.com/Tikapo1"
             target="_blank"
             rel="noopener noreferrer nofollow"
           >
-            julian.io
+            Tikapo
           </Text>
         </Box>
       </Container>
