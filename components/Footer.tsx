@@ -18,9 +18,6 @@ export const Footer = () => {
       >
         <Box>SKV Minter Dapp (v{`${packageJson.version}`})</Box>
         <Box fontSize="xs" fontWeight="hairline">
-          All for free. Please support the project. Give it credit and tell the
-          world about it. Attribution is not required but welcomed in the form
-          of a backlink.
         </Box>
         <Box fontSize="xs" fontWeight="bold">
           <Text

@@ -39,7 +39,7 @@ export const Hero = () => {
         lineHeight="shorter"
         mb={5}
       >
-        Dapp Démo by{' '}
+        Dapp Demo by{' '}
         <Text
           as="a"
           color="elvenTools.color3.base"
@@ -67,7 +67,7 @@ export const Hero = () => {
         fontWeight="thin"
         textAlign={{ base: 'center', md: 'left' }}
       >
-        We are building on the elven template with our custumised SC on the {' '}
+        We are building with the elven template with our customised SC on the {' '}
         <Text as="span" fontWeight="medium">
           devnet
         </Text>
