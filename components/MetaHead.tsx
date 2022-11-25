@@ -18,7 +18,7 @@ export const MetaHead: FC<MetaHeadProps> = memo(
           name="description"
           content={metaDescription || defaultMetaTags.description}
         />
-        <meta name="author" content="Elven Tools | www.elven.tools"></meta>
+        <meta name="author" content="SKV Minter |https://skvagency.com"></meta>
         <meta property="og:type" content="website" />
         <meta
           property="og:title"
