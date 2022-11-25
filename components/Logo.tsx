@@ -32,7 +32,7 @@ export const Logo = () => {
           fontWeight="black"
           color="elvenTools.white"
         >
-          Weird Faces
+          Skv Minter
         </Text>
       </Box>
     </NextLink>

@@ -32,9 +32,9 @@ export const faq = [
       'It is crucial because these two prove that the NFTs come from a verified source. The NFT project should always show the collection ticker and minter smart contract to gain trust.',
   },
   {
-    question: 'What is Elven Tools?',
+    question: 'What is SKV Agency?',
     answer:
-      'The Elven Tools is an open-source toolset including the CLI tool, Smart Contract for handling the NFT collections, and this dapp template. You can, of course, use each tool separately. But the CLI helps with smart contract deployments and the setup process. You can also interact with the smart contract using the CLI or even use it as a buyer.',
+      'We are a WEB 3 studio providing tools and services on MultiversX and all the EVM chains.',
   },
 ];
 

@@ -39,25 +39,25 @@ export const Hero = () => {
         lineHeight="shorter"
         mb={5}
       >
-        Open source Dapp template for the{' '}
+        Dapp Démo by{' '}
         <Text
           as="a"
           color="elvenTools.color3.base"
-          href="https://www.elven.tools"
+          href="https://skvagency.com"
           target="_blank"
           rel="noopener noreferrer nofollow"
         >
-          Elven Tools
+          SKV Agency
         </Text>{' '}
-        and{' '}
+        on{' '}
         <Text
           as="a"
           color="elvenTools.color2.base"
-          href="https://www.elrond.com"
+          href="https://multiversx.com"
           target="_blank"
           rel="noopener noreferrer nofollow"
         >
-          Elrond
+          MultiversX
         </Text>{' '}
         blockchain.
       </Text>
@@ -67,14 +67,10 @@ export const Hero = () => {
         fontWeight="thin"
         textAlign={{ base: 'center', md: 'left' }}
       >
-        The actual working example is connected to the Elven Tools smart
-        contract deployed on the Elrond blockchain{' '}
+        We are building on the elven template with our custumised SC on the {' '}
         <Text as="span" fontWeight="medium">
           devnet
         </Text>
-        ! You can play with it. I will redeploy it from time to time to keep the
-        minting active. You can also use the template on the mainnet with a
-        couple of config changes. Check the Elven Tools website for docs.
       </Text>
       <Box
         display="flex"
