@@ -49,7 +49,7 @@ export const Hero = () => {
         >
           SKV Agency
         </Text>{' '}
-        on{' '}
+        on the{' '}
         <Text
           as="a"
           color="elvenTools.color2.base"
