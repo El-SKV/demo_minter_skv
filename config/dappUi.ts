@@ -61,8 +61,6 @@ export const roadmap = [
   {
     title: 'Q4 2022',
     points: [
-      'Backend cache (Redis?)',
-      'Image optimization (Cloudinary?)',
       '...sky is the limit!',
     ],
   },
